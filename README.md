@@ -28,6 +28,8 @@ Com a intenção de aumentar o negócio, Roberto está disposto a informatizar s
 - Setor de compras;
 - Setor financeiro.
 
+---
+
 ## Gestão do Estoque:
 - Informações sobre os produtos (validade, valor, lote, nome, descrição, marca, idproduto, categoria, fornecedor);
 - Volume de produtos em estoque (quantidade_atual, quantidade_lote, ultima_movimentacao, quantidade_maxima, quantidade_minima, idproduto);
@@ -46,6 +48,13 @@ Com a intenção de aumentar o negócio, Roberto está disposto a informatizar s
 ## Setor Financeiro 
 - informacao_financeiro (idfinanceiro, despesas, lucro, disponibilidade_cofre, valor, tipo_valor, descrição, data_operacao);
 
+---
+
 ### Modelo Conceitual
 
-!['Diagrama do modelo conceitudo'](./Captura%20de%20tela%202023-02-10%20081544.png)
+!['Diagrama do modelo conceitudo'](./modelo_conceitual.png)
+
+### Modelo Lógico
+
+
+!["Diagrama do modelo lógico"](./modelo_logico_estudo.png)
